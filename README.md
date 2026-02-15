@@ -32,5 +32,6 @@ Where to look
 
 - Landing page: `src/pages/Landing.tsx` (root `/`)
 
+🌐 **Live Demo:** [Click Here](https://content-analyser-nine.vercel.app/)
 
 
