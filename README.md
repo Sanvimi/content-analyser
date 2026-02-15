@@ -32,17 +32,5 @@ Where to look
 
 - Landing page: `src/pages/Landing.tsx` (root `/`)
 
-Short assessment deliverables
-- Working app url: (host this build on Vercel/Netlify/Render and paste URL)
-- GitHub repo: this repository
-- Brief write-up: `WRITEUP.md` (200 words max)
-
-Notes
-- This project uses `pdfjs-dist` for PDF parsing and `tesseract.js` for OCR — both run client-side so no backend is required.
-- For production at scale consider moving OCR to a server or using cloud OCR APIs for performance and reliability.
-
-If you want, I can:
-- Add a lightweight deployment workflow (Vercel/Netlify).
-- Add sample test files and CI checks.
 
 
